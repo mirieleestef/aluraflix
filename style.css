@@ -1,19 +1,2 @@
 body{
-    background-color: rgb(34, 17, 17);
-    color: rgb(8, 8, 8); 
- }
-
-section{
- background-color: black;
- padding-top:80px;
- padding-bottom: 80px;
- display: flex;
- justify-content: center;
- }
- .chamada-texto{
- margin-right: 5%;
- }
- img {
-    height: 210px;
- }
- 
+    
