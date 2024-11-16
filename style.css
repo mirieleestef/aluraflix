@@ -1,2 +1,12 @@
 body{
-    
+      display: block;
+      margin: 8px;
+}
+{
+   background: black;
+     color: white;
+ }
+ body {
+   color: white;
+   background: black;
+}
