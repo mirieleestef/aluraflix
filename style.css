@@ -13,7 +13,7 @@ header{
 }
 
 section {
-   background: rgb(254, 202, 181);
+   background: rgb(247, 209, 229);
    padding-bottom: 80px;
    padding-top: 80px;
    display: flex;
@@ -44,4 +44,11 @@ img {
 }
 .categoria-videos img:hover {
    opacity: 1.0; 
+   border: 1px solid pink;
+}
+}
+
+.categoria h2 {
+    color: rgb(247, 209, 229);
+
 }
